@@ -2,5 +2,10 @@
 Standard Library &amp; Third Party Library
 
 ## Lists
-	- requests
-	- profile
+  - requests
+  - bs4
+  - profile
+  - collections
+  - pickle
+  - pandas
+  
